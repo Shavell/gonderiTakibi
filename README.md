@@ -64,7 +64,7 @@ order by r.last_process_date asc
 
 
 ## Requirements
-- Python 3.6 or earlier
+- Python 3.6
 - ChromeDriver for chrome
 - PhantomJS (Optional)
 - Trained captcha recognizer model (i don't share my trained model, I believe you can do it)
